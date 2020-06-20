@@ -1,0 +1,88 @@
+body {
+    background-color: #FDDBE0;
+    font-family: 'Lato', sans-serif;
+    color: #C78283;
+}
+
+#giftButton {   
+    font-family: 'Fredoka One', cursive;
+    width: 120px;
+    background-color: #FFE95D;
+    color: #C78283;
+    border-radius: 60px;
+    text-align: center;    
+    border: unset;           
+}
+
+#mom {
+    margin-top: 140px;
+}
+
+#dad {
+    margin-top: 100px;
+}
+
+#icons {
+    text-align: center;
+}
+
+#momDad {
+    color: #FFB9CC;
+    font-weight: bold;
+    font-family: 'Fredoka One', cursive;  
+}
+
+#momDadSection {    
+    background-color: #F9F5F0;
+}
+
+#Dad {
+    color: #86D4F2;
+    font-weight: bold;
+    font-family: 'Fredoka One', cursive; 
+}
+
+
+.pleaseJoin {
+    background-color: #FFD785;
+    
+}
+
+#section3Text {
+    color: #C78283;
+    font-weight: bolder;
+    font-family: 'Fredoka One', cursive;
+}
+
+#quoteblock { 
+    text-align: center;
+  }
+
+
+  #quoteIcon {
+      font-size: 30px;
+  }
+ 
+  .baby1 {
+    font-family: 'Fredoka One', cursive;
+    color: #C78283;        
+}
+
+.hometext {
+    font-family: 'Fredoka One', cursive;
+    color: #C78283 !important;             
+}
+
+.rattle {
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
