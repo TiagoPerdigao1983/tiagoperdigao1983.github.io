@@ -4,7 +4,7 @@ A slack clone using React, Javascript, HTML/CSS, Firebase and Material UI.
 Demo: https://slack-clone-4eb4f.web.app/
 	
 ## Functionalities
-* Create chat channels and any one can join that channel
+* Create/add chat channels that anyone may join
 * Real time chat with mutiple users within a channel
 * Login with Google Authentication
 * Real-time database (Firebase)
