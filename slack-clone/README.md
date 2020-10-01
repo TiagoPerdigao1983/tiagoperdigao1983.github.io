@@ -1,5 +1,5 @@
 ## Slack Clone
-A slack clone using React, Javascript, HTML/CSS, Firebase and Material UI.
+A slack clone using React, JavaScript, HTML/CSS, Firebase and Material UI.
 
 Demo: https://slack-clone-4eb4f.web.app/
 	
